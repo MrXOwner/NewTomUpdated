@@ -22,12 +22,12 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
 )
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001631416406"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001626004802"))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Alisha Music")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5745099463").split())
+    map(int, getenv("OWNER_ID", "6258877205").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,16 +36,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Team-Alisha/AlishaMusic",
+    "https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Sad_shayari_lovers")
+    "SUPPORT_CHANNEL", "https://t.me/BRANDED_LINK")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/FriendshipWorldGroup")
+    "SUPPORT_GROUP", "https://t.me/BRANDRD_21")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -61,7 +61,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "6"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Team-Alisha/AlishaMusic")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "bcfe26b0ebc3428882a0b5fb3e872473")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "907c6a054c214005aeae1fd752273cc4")
@@ -103,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/46ede9ce0c467ab112c63.png")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/ebf34649780915d5951fe.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph//file/ba1e2843461ec2233a3c0.jpg",
+    "https://te.legra.ph/file/b5a457725d59cc7765dde.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
