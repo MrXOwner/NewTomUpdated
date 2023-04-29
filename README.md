@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<br><b>𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
+<br><b> 𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
 </b><br>
 </p>
 <p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
@@ -49,8 +49,8 @@ bash start
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [MrProgrammer](https://github.com/WCGKING): Developer
-- [GJ516 vc player](https://telegram.me/BRANDRD_12): Test Bot
+- [WCGKING](https://github.com/WCGKING): Developer
+- [Branded](https://t.me/KHUSHI_MUSIC_82BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
