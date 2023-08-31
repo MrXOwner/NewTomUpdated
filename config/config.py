@@ -22,12 +22,12 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
 )
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001754457302"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5742444542").split())
+    map(int, getenv("OWNER_ID", "6258877205").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/BRANDED_LINK")
+    "SUPPORT_CHANNEL", "https://t.me/BRANDRD_BOT")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/BRANDRD_21")
+    "SUPPORT_GROUP", "https://t.me/group1loki")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
