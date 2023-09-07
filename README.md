@@ -42,7 +42,7 @@ bash start
 ### 🧪 Get String Session
 
 </h4>    
-<p><a href="https://t.me/String_sessionkhushi_bot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/BRANDEDSTRINGSESSION_BOT"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -50,7 +50,7 @@ bash start
 
 ### ᴄʀᴇᴅɪᴛs 💖
 - [WCGKING](https://github.com/WCGKING): Developer
-- [Branded](https://t.me/KHUSHI_MUSIC_82BOT): Test Bot
+- [Branded](https://t.me/BRANDEDPIHU_BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -58,6 +58,6 @@ bash start
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Support & Developer 🎑
-<a href="https://t.me/BRANDED_LINK"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BRANDED_BOT"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/BRANDRD_21"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
