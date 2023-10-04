@@ -100,12 +100,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "BRANDED_WORLD",
+        "value": "https://t.me/BRANDED_WORLD",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "BRANDRD_BOT",
+        "value": "https://t.me/BRANDRD_BOT",
         "required": false
       }
     },
