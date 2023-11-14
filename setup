@@ -76,7 +76,7 @@ node(){
 repo(){
 	# Get git repo if the installer is runned standalone
 	[[ ! "AnonXMusic" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
-	git clone https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC &&  cd BRANDED-KHUSHI-OP-MUSIC
+	git clone https://github.com/dattuxd/BK-OP-TOM &&  cd BK-OP-TOM
 }
 
 
