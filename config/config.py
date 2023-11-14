@@ -12,22 +12,22 @@ API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://AsadAli:AsadAli@cluster0.3ejv7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 DURATION_LIMIT_MIN = int(
     getenv("DURATION_LIMIT", "90000000")
 )
 
 SONG_DOWNLOAD_DURATION = int(
-    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
+    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "200")
 )
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹● 𝑻𝑶𝑴 ✘ 𝑱𝑬𝑹𝑹𝒀 𝑴𝑼𝑺𝑰𝑪 ●˼™")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6258877205").split())
+    map(int, getenv("OWNER_ID", "5555422614").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,16 +36,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC",
+    "https://github.com/dattuxd/BK-OP-TOM",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/BRANDRD_BOT")
+    "SUPPORT_CHANNEL", "https://t.me/Our_Groupps")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/BRANDED_WORLD")
+    "SUPPORT_GROUP", "https://t.me/MUSICAL_BEATSZ")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -61,19 +61,19 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "6"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/dattuxd/BK-OP-TOM")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "bcfe26b0ebc3428882a0b5fb3e872473")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "907c6a054c214005aeae1fd752273cc4")
 
-VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "5"))
+VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "8"))
 
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
 
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "50"))
 
 CLEANMODE_DELETE_MINS = int(
-    getenv("CLEANMODE_MINS", "7")
+    getenv("CLEANMODE_MINS", "10")
 )
 
 TG_AUDIO_FILESIZE_LIMIT = int(
@@ -103,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/ebf34649780915d5951fe.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/63984c9d93a3d1696a173.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/b5a457725d59cc7765dde.jpg",
+    "https://graph.org/file/5b5803b02a24b043fc6d0.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
