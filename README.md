@@ -49,8 +49,8 @@ bash start
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [WCGKING](https://t.me/MrPerfectXd): Developer
-- [Branded](https://t.me/TomXJerry_Bot): Test Bot
+- [𝐌𝐫 𝐏𝐞𝐫𝐟𝐞𝐜𝐭](https://t.me/MrPerfectXd): Developer
+- [𝐓𝐨𝐦 𝐗](https://t.me/TomXJerry_Bot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
