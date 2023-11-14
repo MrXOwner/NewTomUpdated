@@ -1,7 +1,7 @@
 {
-    "name": "KHUSHI OP",
+    "name": "TOM X JERRY",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/ebf34649780915d5951fe.jpg",
+    "logo": "https://graph.org/file/5b5803b02a24b043fc6d0.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -35,13 +35,13 @@
       },
       "DURATION_LIMIT_MIN": {
         "description": "Maximum duration that your bot can play in minutes.",
-        "value": "90",
+        "value": "9000",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
         "value": "",
-        "required": false
+        "required": true
       },
       "AUTO_DOWNLOADS_CLEAR": {
         "description": "Fill True if you want to automatically clear the downloaded files after playing.",
@@ -51,7 +51,7 @@
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
         "value": "",
-        "required": false
+        "required": true
       },
       "SPOTIFY_CLIENT_ID": {
         "description": "Spotify Client Id",
@@ -65,7 +65,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6258877205",
+        "value": "5555422614",
         "required": true
       },
       "STRING_SESSION": {
@@ -75,23 +75,23 @@
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "https://te.legra.ph/file/e3c1ae96d329acd2d99cf.jpg",
+        "value": "https://graph.org/file/5b5803b02a24b043fc6d0.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://te.legra.ph/file/82f1053c956dd6256ff1e.jpg",
+        "value": "https://graph.org/file/63984c9d93a3d1696a173.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
         "value": "",
-        "required": false
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
         "value": "",
-        "required": false
+        "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
@@ -100,12 +100,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/BRANDED_WORLD",
+        "value": "https://t.me/TeluguFriendsHub",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/BRANDRD_BOT",
+        "value": "https://t.me/Our_Groupps",
         "required": false
       }
     },
