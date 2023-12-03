@@ -26,6 +26,6 @@ yt-dlp
 youtube-search
 youtube-search-python
 gtts
-git+https://github.com/AsmSafone/SafoneAPI
+git+https://github.com/yt-dlp/yt-dlp@master
 numpy
 httpx
