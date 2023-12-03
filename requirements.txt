@@ -23,5 +23,9 @@ numpy
 youtube-search
 youtube-search-python
 yt-dlp
+youtube-search
+youtube-search-python
+gtts
+git+https://github.com/AsmSafone/SafoneAPI
 numpy
 httpx
