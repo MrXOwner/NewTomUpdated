@@ -1,6 +1,6 @@
 from telegraph import upload_file
 from pyrogram import filters
-from AnonXMusic import app
+from AnonX import app
 from pyrogram.types import InputMediaPhoto
 
 
