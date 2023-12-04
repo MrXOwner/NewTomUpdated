@@ -5,7 +5,6 @@ from telegraph import upload_file
 from PIL import Image , ImageDraw
 from pyrogram import *
 from pyrogram.types import *
-from pyrogram.enums import *
 
 #BOT FILE NAME
 from AnonX import app as app
