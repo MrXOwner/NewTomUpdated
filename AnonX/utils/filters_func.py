@@ -1,8 +1,8 @@
 from enum import Enum, auto
-from AnonXMusic import app
+from AnonX import app
 from pyrogram.types import InlineKeyboardMarkup, Message
-from AnonXMusic.utils.msg_types import button_markdown_parser
-from AnonXMusic.utils.notes_func import NoteFillings
+from AnonX.utils.msg_types import button_markdown_parser
+from AnonX.utils.notes_func import NoteFillings
 from emojis import decode
 from pyrogram.types import Message
 
