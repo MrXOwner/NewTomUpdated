@@ -175,10 +175,10 @@ async def mentionall(client, message):
             break
         if usr.user.is_bot:
             continue
-        usrnum += 5
+        usrnum += 1
         usrtxt += f"[{usr.user.first_name}](tg://user?id={usr.user.id}) "
 
-        if usrnum == 5:
+        if usrnum == 1:
             if mode == "text_on_cmd":
                 txt = f"{usrtxt} {random.choice(TAGMES)}"
                 await client.send_message(chat_id, txt)
