@@ -103,39 +103,7 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = [
-    "https://graph.org/file/63984c9d93a3d1696a173.jpg"
-    "https://telegra.ph/file/c7b551119ea15dc365f68.jpg",
-    "https://telegra.ph/file/1d19bdc70cb7ef3d60001.jpg",
-    "https://telegra.ph/file/cb746616b6189e00fec71.jpg",
-    "https://telegra.ph/file/71f57ec08d362b2247c6b.jpg",
-    "https://telegra.ph/file/aef32840b7c2943031ad6.jpg",
-    "https://telegra.ph/file/005f3268e52de060eab78.jpg",
-    "https://telegra.ph/file/c04036447f2936ee4dd75.jpg",
-    "https://telegra.ph/file/5cf94672c06083e36773f.jpg",
-    "https://telegra.ph/file/952bac570b471a4243c8d.jpg",
-    "https://telegra.ph/file/661da902ca073202ad4ba.jpg",
-    "https://telegra.ph/file/89b49320d979989548003.jpg",
-    "https://telegra.ph/file/01a5eab9744506eff3f83.jpg",
-    "https://telegra.ph/file/eb38913e41771d1a16847.jpg",
-    "https://telegra.ph/file/26f34e070431a858d31f5.jpg",
-    "https://telegra.ph/file/e0c01f79896a32022c6ca.jpg",
-    "https://telegra.ph/file/d424fcf4a72ec8e1a28c7.jpg",
-    "https://telegra.ph/file/922e7ce9c5e0bafafeb34.jpg",
-    "https://telegra.ph/file/f82d044b2f3133cec48c2.jpg",
-    "https://telegra.ph/file/0f424d0824900939bb32a.jpg",
-    "https://telegra.ph/file/0e84310ec975e8e6ebca9.jpg",
-    "https://telegra.ph/file/1646ddc99a7c77f51b3a0.jpg",
-    "https://telegra.ph/file/3c5ac8d87b622260445be.jpg",
-    "https://telegra.ph/file/dfa43563bd68849a46a39.jpg",
-    "https://telegra.ph/file/4506a375b415971355ff2.jpg",
-    "https://telegra.ph/file/0d0cdfda3b9dac9730476.jpg",
-    "https://telegra.ph/file/4d2c9229c567f9416143f.jpg",
-    "https://telegra.ph/file/77ba544ccfb6bf8ba7b03.jpg",
-    "https://telegra.ph/file/0387d64a44d76e0d53deb.jpg",
-    "https://telegra.ph/file/9e346de01cb863b30367f.jpg",
-    "https://telegra.ph/file/26a0d446102c63a1bbcca.jpg",
-]
+START_IMG_URL = ["https://te.legra.ph/file/7757731c3e8b784b6a550.png", "https://te.legra.ph/file/58c34981e21180989887c.png", "https://te.legra.ph/file/a3a874be5095d9af685ac.png", "https://te.legra.ph/file/ac461a1889255424420ff.png", "https://te.legra.ph/file/74a8ba5270d0e27ac045c.png", "https://te.legra.ph/file/c0d0ee1452cbbbce116f4.png", "https://te.legra.ph/file/d373ae93502a5ae7fd403.png", "https://te.legra.ph/file/ab243bcad20965f637b5c.png", "https://te.legra.ph/file/fd9cc86239dd76d564d01.png", "https://te.legra.ph/file/c12a0b77178e2d2e27a50.png", "https://te.legra.ph/file/35177bbb5d5f07ad8e394.png", "https://te.legra.ph/file/700af8c3ee786a20aff35.png", "https://te.legra.ph/file/cbecd8af0446a422a95ca.png", "https://te.legra.ph/file/c3a0fde4abde25dd25e26.png", "https://te.legra.ph/file/7be8c2f9e093f695c4c6e.png", "https://te.legra.ph/file/ee10888e828bae3a6a0fc.png", "https://te.legra.ph/file/1b55fe681163188149fa4.png", "https://te.legra.ph/file/30ee4e96f64cd9abb69b6.png", "https://te.legra.ph/file/30b121ce5fa87360692ba.png", "https://te.legra.ph/file/f0617cc52008bd78f1a9d.png", "https://te.legra.ph/file/1cd1adc3eb9ac0a101610.png", "https://te.legra.ph/file/860c3dd149f91eb450d5a.png", "https://te.legra.ph/file/2e9df77f8100e0327ba52.png", "https://te.legra.ph/file/639efe98c133d71c418db.png", "https://te.legra.ph/file/8a834586b677739b86bff.png", "https://te.legra.ph/file/13f79674ce777f43871fb.png", "https://te.legra.ph/file/147157eca055a1e2c8756.png", "https://te.legra.ph/file/b774a8da74dc954afebc6.png", "https://te.legra.ph/file/7ae4a6a6a6c28f9f08ceb.png", "https://te.legra.ph/file/12d5ea64ed00416a38ec8.png"]
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
