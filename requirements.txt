@@ -21,8 +21,6 @@ spotipy
 tgcrypto
 telegraph
 numpy
-youtube-search
-youtube-search-python
 yt-dlp
 youtube-search
 youtube-search-python
