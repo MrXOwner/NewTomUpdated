@@ -24,6 +24,4 @@ numpy
 yt-dlp
 youtube-search
 youtube-search-python
-gtts
-git+https://github.com/yt-dlp/yt-dlp@master
 httpx
