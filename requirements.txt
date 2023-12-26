@@ -1,14 +1,14 @@
 aiofiles
 aiohttp
-asyncio
+asyncio==3.4.3
 dnspython
 ffmpeg-python
 gitpython
 hachoir
 heroku3
 lyricsgenius
-motor
-pillow
+motor==3.0.0
+pillow==9.4.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
@@ -26,5 +26,4 @@ youtube-search
 youtube-search-python
 gtts
 git+https://github.com/yt-dlp/yt-dlp@master
-numpy
 httpx
